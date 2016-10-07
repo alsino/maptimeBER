@@ -28,8 +28,21 @@ eventuell:
 
 
 
+Holger Dietrich:
+Are there steps at the entrance? How crowdsourced mapping creates a more inclusive society.
 
-Ideen für Vorträge:
+Blurb:
+Knowing where to go is great, that's what maps are made for. But people with disabilities can not access all places because of steps at the entrance or other obstacles. In his presentation Holger will present how crowdsourced mapping with Wheelmap.org and others can help. Now he works on a new project called Accessibility.Cloud to make this data available to everyone, in every app & website. This talk is not only for people who want to be inspired, but also for developers and managers of location based services and mapping applications who want to enrich their data set easily.
+
+Holger is chairman of the non-profit organisation SOZIALHELDEN e.V. and co-founder of Wheelmap.org, the largest crowd-sourced map for wheelchair accessible places based on OpenStreetMap. He also works with young startups in Berlin as a coach and mentor.
+
+
+
+
+
+—————————————
+
+Ideen für weitere Vorträge:
 - Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
 - Historische Städte-Atlanten (Alex)
 - Alsino und Hans: Nigeria-Projekt/ Ufos
