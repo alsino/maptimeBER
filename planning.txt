@@ -29,14 +29,15 @@ Numa Gremling (@Gremling89) is a GIS developer from Luxembourg who now works at 
 
 
 25 October:
-Tbd.
+- Holger Dietrich: Wheelmap
+- Alsino und Hans: Nigeria-Projekt/ Ufos
+- Fabian Ehmel/ Jordi Trost: Digenti
+
 
 
 Ideen für Vorträge:
 - Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
-- Fabian Ehmel/ Jordi Trost: Digenti
 - Historische Städte-Atlanten (Alex)
-- Raul Krautcausen o-Ä: Wheelmap 
 - Alsino und Hans: Nigeria-Projekt/ Ufos
 - Johannes - Tactile Map
 - GGPlotR (Kontakt via Seb) for Science 
