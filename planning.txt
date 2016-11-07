@@ -14,27 +14,55 @@ Topics:
 
 
 22 November:
-- Andrea Antonello: Topic tbd.
-- Seb: HABIAT Reisebericht?
+- Andrea Antonello: Geopaparazzi tool? (Harald fragt an)
+- Topic screening: what topics do you want? (wir alle)
+- Seb - Citiviz.io / Habitat 
+- paul blickle / julian stahnke: usa-projekt (Alsino fragt an)
+
+Dezember:
+- jordi - Digenti (Seb fragt an)
+- Friederike Milbradt: Zeit Deutschlandkarte (Alsino hat angefragt)
+- Jan Erik - Novel city maps (Alsino fragt an)
+- Physical maps - (seb)
+- MapXtract (Hans)
+
+Januar:
+- Carto(DB) Builder und Docker (Patrick)
+- Cartocalypse - Projekte der HafenCity Universität HH (Seb fragt an)
+- Chora - Holger (Seb fragt an)
+- Alex Wahlberg - Historische Stadtatlanten (Harald fragt an)
+
+- Ausstellungshinweis: Gorgeous Geobrowsing (15.1.)
+
+
+Februar -> Maptime Mappathon
+- Sollte ein Samstag sein
+- Datum und Location tbd.
+- Partner z.B. OSM Berlin (Lars Linger)
+- Themenvorschläge / Gruppen
 
 
 
 
+-----
+
+Glühwein und Spekulatius -> IXDS anfragen
 
 
-—————————————
-
-Ideen für weitere Vorträge:
-- Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
-- Historische Städte-Atlanten (Alex)
-- Alsino und Hans: Nigeria-Projekt
 
 
-Ideen für Ausflüge:
+------------
+
+Exkursion:
 - Besuch Sternwarte
-- Schummerungen/Höhenprofile
+- Ausstellungen, z.B. Gorgeous Geobrowsing
+- Sternwarte
 
 
+andere Vortragsideen:
+- Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
+- Annette Günzel - diverse Kontakte und Projekte
+- Alsino und Hans: Nigeria-Projekt
 
 
 
