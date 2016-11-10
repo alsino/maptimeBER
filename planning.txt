@@ -22,12 +22,12 @@ Topics:
 Dezember:
 - paul blickle / julian stahnke: usa-projekt (Alsino hat angefragt)
 - jordi - Digenti (Seb fragt an)
-- Friederike Milbradt: Zeit Deutschlandkarte (Alsino hat angefragt)
 - Jan Erik - Novel city maps (Alsino fragt an)
 - Physical maps - (seb)
 - MapXtract (Hans)
 
 Januar:
+- Friederike Milbradt: Zeit Deutschlandkarte (Evtl. ab Januar)
 - Carto(DB) Builder und Docker (Patrick)
 - Cartocalypse - Projekte der HafenCity Universität HH (Seb fragt an)
 - Chora - Holger (Seb fragt an)
