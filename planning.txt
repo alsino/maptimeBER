@@ -14,19 +14,18 @@ Topics:
 
 
 22 November:
-- Andrea Antonello: Geopaparazzi tool? (Harald fragt an)
+- Andrea Antonello: Geopaparazzi tool? (zugesagt)
 - Topic screening: what topics do you want? (wir alle)
 - Seb - Citiviz.io / Habitat 
-- Fabian Moron Zirfas: Maps Indesign/ Illustrator/ AfterEffects
 
 Dezember:
 - paul blickle / julian stahnke: usa-projekt (Alsino hat angefragt)
 - jordi - Digenti (Seb fragt an)
-- Jan Erik - Novel city maps (Alsino fragt an)
 - Physical maps - (seb)
 - MapXtract (Hans)
 
 Januar:
+- Jan Erik - Novel city maps (Alsino hat angefragt)
 - Friederike Milbradt: Zeit Deutschlandkarte (Evtl. ab Januar)
 - Carto(DB) Builder und Docker (Patrick)
 - Cartocalypse - Projekte der HafenCity Universität HH (Seb fragt an)
@@ -64,6 +63,7 @@ andere Vortragsideen:
 - Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
 - Annette Günzel - diverse Kontakte und Projekte
 - Alsino und Hans: Nigeria-Projekt
+- Fabian Moron Zirfas: Maps Indesign/ Illustrator/ AfterEffects
 
 
 
