@@ -12,22 +12,17 @@ Next dates:
 
 Topics:
 
+Februar:
+- Christoph Lambio: Kritischer Atlas (Harald fragt an)
+- tbd.
+- tbd.
 
-22 November:
-- Andrea Antonello: Geopaparazzi tool? (zugesagt)
-- Topic screening: what topics do you want? (wir alle)
-- Seb - Citiviz.io / Habitat 
 
-Dezember:
-- Bar and Beers
+März:
+- tbd.
+- tbd.
+- tbd.
 
-Januar:
-- Jan Erik - Novel city maps (Alsino hat angefragt)
-- Friederike Milbradt: Zeit Deutschlandkarte (Evtl. ab Januar)
-- Carto(DB) Builder und Docker (Patrick)
-- Cartocalypse - Projekte der HafenCity Universität HH (Seb fragt an)
-- Chora - Holger (Seb fragt an)
-- Alex Wahlberg - Historische Stadtatlanten (Harald fragt an)
 
 - Ausstellungshinweis: Gorgeous Geobrowsing (15.1.)
 
@@ -38,7 +33,7 @@ Andere:
 - MapXtract (Hans)
 
 
-Februar -> Maptime Mappathon
+März -> Maptime Mappathon
 - Sollte ein Samstag sein
 - Datum und Location tbd.
 - Partner z.B. OSM Berlin (Lars Linger)
@@ -46,10 +41,6 @@ Februar -> Maptime Mappathon
 
 
 
-
------
-
-Glühwein und Spekulatius -> IXDS anfragen
 
 
 
@@ -63,7 +54,6 @@ Exkursion:
 
 
 andere Vortragsideen:
-- Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
 - Annette Günzel - diverse Kontakte und Projekte
 - Alsino und Hans: Nigeria-Projekt
 - Fabian Moron Zirfas: Maps Indesign/ Illustrator/ AfterEffects
