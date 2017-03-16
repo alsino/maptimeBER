@@ -1,40 +1,24 @@
 Maptime planning status:
 
 Next dates:
-- 22. November*
-- 13. December
-- 24. January*
-- 21. February*
 - 21. March*
+- 18 April*
+- 23 May*
+- 20 June*
 
 *all dates confirmed by IXDS (always 7pm)
 
 
 Topics:
 
-Februar:
-- Christoph Lambio: Kritischer Atlas (Harald fragt an)
-- Gerd Gauglitz: Historische Karten: http://www.tagesspiegel.de/berlin/stadtplaene-von-1742-1875-1932-und-2017-ein-neuer-blick-aufs-alte-berlin/19222970.html
-- tbd.
-- tbd.
-
-
-März:
-- tbd.
-- tbd.
-- tbd.
-
-
-- Ausstellungshinweis: Gorgeous Geobrowsing (15.1.)
 
 Andere:
 - paul blickle / julian stahnke: usa-projekt (Alsino hat angefragt)
 - jordi - Digenti (Seb fragt an)
 - Physical maps - (seb)
-- MapXtract (Hans)
 
 
-März -> Maptime Mappathon
+General Idea -> Maptime Mappathon
 - Sollte ein Samstag sein
 - Datum und Location tbd.
 - Partner z.B. OSM Berlin (Lars Linger)
